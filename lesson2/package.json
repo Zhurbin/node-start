@@ -13,8 +13,10 @@
   "author": "Alexander Zhurbin",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
     "express": "^4.14.0",
-    "got": "^6.3.0"
+    "needle": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
